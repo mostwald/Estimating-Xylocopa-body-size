@@ -1,5 +1,5 @@
 # Estimating body size in the large carpenter bees (*Xylocopa*)
-(in review)
+2025, Journal of Melittology
 
 [![DOI](https://zenodo.org/badge/639080548.svg)](https://zenodo.org/doi/10.5281/zenodo.11106427)
 # Abstract
